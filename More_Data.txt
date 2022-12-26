@@ -6,3 +6,4 @@ Mohammed khamis 	0
 Motaz shorman		0
 
 Mohd Salman		1
+Joe Biden		-inf
